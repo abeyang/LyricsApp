@@ -335,7 +335,8 @@ export const songs = [
         title: "Facing A Task Unfinished",
         author: "Frank Hougton et al.",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/rv3ceyz6ml7833e/FacingTaskUnfinished.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -360,7 +361,7 @@ export const songs = [
         collection: "campfire",
         ref: "",
         lyrics:
-            "Faithful One so unchanging<br>Ageless One You’re my rock of peace<br>Lord of all, I depend on You<br>I call out to You,          again and again<br>I call out to You,          again and again<br>You are my rock in times of trouble<br>You lift me up    when I fall down<br>All through the storm Your love is <br>the anchor<br>My hope is in You alone"
+            "Faithful One so unchanging<br>Ageless One You’re my rock of peace<br>Lord of all, I depend on You<br>I call out to You, again and again<br>I call out to You, again and again<br>You are my rock in times of trouble<br>You lift me up    when I fall down<br>All through the storm Your love is <br>the anchor<br>My hope is in You alone"
     },
     {
         title: "Forever",
@@ -390,7 +391,7 @@ export const songs = [
         collection: "campfire",
         ref: "",
         lyrics:
-            "In the morning, when I rise<br>In the morning, when I rise<br>In the morning, when I rise<br>Give me Jesus<br><br>Give me Je-sus, give me Jesus<br>You can have all this world<br>Just give me Jesus<br><br>When I am alone, When I am alone<br>Oh, when I am alone, give me Jesus<br><br>When I come to die, when I come to die<br>Oh, when I come to die, Give me Jesus"
+            "In the morning, when I rise<br>In the morning, when I rise<br>In the morning, when I rise<br>Give me Jesus<br><br>Give me Jesus, give me Jesus<br>You can have all this world<br>Just give me Jesus<br><br>When I am alone, When I am alone<br>Oh, when I am alone, give me Jesus<br><br>When I come to die, when I come to die<br>Oh, when I come to die, Give me Jesus"
     },
     {
         title: "Give Us Clean Hands",
@@ -410,7 +411,7 @@ export const songs = [
         collection: "campfire",
         ref: "",
         lyrics:
-            "Chorus:<br>We’re giving it all away away (Oh oh oh we oh)<br>We’re giving it all to go Your way ​(X2)<br><br>Verse 1​​:<br>In the Father, there is freedom, there is hope in the name that is Jesus<br>Lay your life down, give it all now, we are found in the love of the Savior<br><br>Pre-Chorus:<br>We come alive in You, set free to show the truth, our lives will never be the same<br><br>Verse 2:<br>We are sold out to Your calling, everything that we are for Your glory<br>Take our hearts now, have it all now, let our lives shine Your light like the morning<br><br><br>Chorus–Verse 1–PC–Chorus–Verse 2–PC–Chorus"
+            "Chorus:<br>We’re giving it all away away (Oh oh oh we oh)<br>We’re giving it all to go Your way ​(X2)<br><br>Verse 1​​:<br>In the Father, there is freedom, there is hope in the name that is Jesus<br>Lay your life down, give it all now, we are found in the love of the Savior<br><br>PreChorus:<br>We come alive in You, set free to show the truth, our lives will never be the same<br><br>Verse 2:<br>We are sold out to Your calling, everything that we are for Your glory<br>Take our hearts now, have it all now, let our lives shine Your light like the morning<br><br><br>Chorus–Verse 1–PC–Chorus–Verse 2–PC–Chorus"
     },
     {
         title: "God is So Good",
@@ -480,7 +481,8 @@ export const songs = [
         title: "He Hideth My Soul",
         author: "Fanny Crosby",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/xqkiioutbcca46z/He%20Hideth%20My%20Soul.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -570,7 +572,8 @@ export const songs = [
         title: "Higher Ground",
         author: "Johnson Oatman",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/nrjl0jcvly6quzq/HigherGround.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -584,7 +587,7 @@ export const songs = [
         collection: "campfire",
         ref: "",
         lyrics:
-            "Je-sus,	Je-sus,<br>Holy and Anointed One,<br>Je-sus<br><br>Your name is like honey on my lips,<br>You Spirit like water to my soul,<br>Your word is a lamp unto my feet,<br>Jesus I love You, I love You.<br><br>Je-sus,   Je-sus,<br>Risen and Exalted One,<br>Je-sus"
+            "Jesus, Jesus,<br>Holy and Anointed One,<br>Jesus<br><br>Your name is like honey on my lips,<br>You Spirit like water to my soul,<br>Your word is a lamp unto my feet,<br>Jesus I love You, I love You.<br><br>Jesus, Jesus,<br>Risen and Exalted One,<br>Jesus"
     },
     {
         title: "Holy, Holy, Holy",
@@ -706,7 +709,8 @@ export const songs = [
         title: "I Need Thee Every Hour",
         author: "Annie S. Hawks",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/t7xsbhzh9u0fnyj/INeedTheeEveryHour.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -747,7 +751,8 @@ export const songs = [
         title: "I Surrender All",
         author: "Judson W. Van De Venter",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/v36djaw2xk1xa85/ISurrenderAll_V2.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -767,7 +772,8 @@ export const songs = [
         title: "I'd Rather Have Jesus",
         author: "Rhea F. Miller",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/1yxvkxomtlb8snq/IdRatherHaveJesus.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -801,7 +807,7 @@ export const songs = [
         collection: "campfire",
         ref: "",
         lyrics:
-            "In Christ alone my hope is found,<br>He is my light, my strength, my song;<br>This Cornerstone, this solid Ground,<br>Firm through the fiercest drought and storm<br>What heights of love, what depths of peace,<br>When fears are stilled, when strivings cease!<br>My Comforter, my All in All,<br>Here in the love of Christ I stand<br><br>In Christ alone! Who took on flesh<br>Fullness of God in helpless babe!<br>This gift of love and righteousness<br>Scorned by the ones he came to save<br>Till on that cross as Jesus died,<br>The wrath of God was satisfied <br>For every sin on Him was laid;<br>Here in the death of Christ I live<br>  <br>There in the ground His body lay            <br>Light of the world by darkness slain:            <br>Then bursting forth in glorious Day                        <br>Up from the grave he rose again!                                 <br>And as He stands in victory                           <br>Sin's curse has lost its grip on me,                       <br>For I am His and He is mine                   <br>Bought with the precious blood of Christ <br><br>No guilt in life, no fear in death,<br>This is the power of Christ in me;<br>From life's first cry to final breath.<br>Jesus commands my destiny.<br>No power of hell, no scheme of man,<br>Can ever pluck me from His hand;<br>Till He returns or calls me home,<br>Here in the power of Christ I'll stand<br>"
+            "In Christ alone my hope is found,<br>He is my light, my strength, my song;<br>This Cornerstone, this solid Ground,<br>Firm through the fiercest drought and storm<br>What heights of love, what depths of peace,<br>When fears are stilled, when strivings cease!<br>My Comforter, my All in All,<br>Here in the love of Christ I stand<br><br>In Christ alone! Who took on flesh<br>Fullness of God in helpless babe!<br>This gift of love and righteousness<br>Scorned by the ones he came to save<br>Till on that cross as Jesus died,<br>The wrath of God was satisfied <br>For every sin on Him was laid;<br>Here in the death of Christ I live<br>  <br>There in the ground His body lay            <br>Light of the world by darkness slain:            <br>Then bursting forth in glorious Day                        <br>Up from the grave he rose again!                                 <br>And as He stands in victory                           <br>Sin's curse has lost its grip on me,                       <br>For I am His and He is mine                   <br>Bought with the precious blood of Christ <br><br>No guilt in life, no fear in death,<br>This is the power of Christ in me;<br>From life's first cry to final breath.<br>Jesus commands my destiny.<br>No power of hell, no scheme of man,<br>Can ever pluck me from His hand;<br>Till He returns or calls me home,<br>Here in the power of Christ I'll stand"
     },
     {
         title: "It Is Well",
@@ -818,7 +824,8 @@ export const songs = [
         title: "Jesus I My Cross Have Taken",
         author: "Henry Francis Lyte",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/4qmb878qw3n9dwx/JesusIMyCrossHaveTaken.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -1009,6 +1016,16 @@ export const songs = [
             "This is my desire, to honor You<br>Lord, with all my heart <br>I worship You<br>All I have within me, <br>I’ll give You praise<br>All that I adore is in You<br> <br>Lord, I give You my heart<br>I give You my soul<br>I’ll live for You alone<br>Every breath that I take<br>Every moment I’m awake<br>Lord, have Your way in me"
     },
     {
+        title: "Lord, I Lift Your Name On High",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Lord, I lift your name on high<br>Lord, I love to sing your praises<br>I'm so glad you're in my life<br>I'm so glad you came to save us<br>You came from heaven to earth<br>to show the way<br>From the earth to the cross<br>my debt to pay<br>From the grave to the sky<br>Lord, I lift your name on high<br>"
+    },
+    {
         title: "Lord, I'm Coming Home",
         author: "William J. Kirkpatrick",
         song_url: "",
@@ -1050,6 +1067,36 @@ export const songs = [
             "Out in the highways and byways of life,<br>Many are weary and sad;<br>Carry the sunshine where darkness is rife,<br>Making the sorrowing glad.<br><br>Make me a blessing, make me a blessing,<br>Out of my life may Jesus shine;<br>Make me a blessing, O Savior, I pray,<br>Make me a blessing to someone today.<br><br>Tell the sweet story of Christ and His love,<br>Tell of His pow’r to forgive;<br>Others will trust Him if only you prove<br>True, ev’ry moment you live.<br><br>Give as ’twas given to you in your need,<br>Love as the Master loved you;<br>Be to the helpless a helper indeed,<br>Unto your mission be true."
     },
     {
+        title: "Make Me A Servant",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Make me a servant, humble and meek<br>Lord, let me lift up, those who are weak<br>And may the prayer of my heart always be<br>Make me a servant, make me a servant<br>Make me a servant today"
+    },
+    {
+        title: "Making Melodies",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Making melodies in my heart<br>Making melodies in my heart<br>Making melodies in my heart<br>For the Lord our God<br><br>Thumbs up!<br>Elbows up!<br>Knees bent!<br>Feet apart!<br>Turn around!<br>Tongue out!"
+    },
+    {
+        title: "Mighty To Save",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Everyone needs compassion<br>A Love that’s never failing<br>Let mercy fall on me<br>Everyone needs forgiveness<br>The kindness of a savior<br>The hope of nations<br><br>Savior, he can move the mountains<br>My God is mighty to save<br>He is mighty to save<br>Forever, author of salvation<br>He rose and conquered the grave<br>Jesus conquered the grave<br><br>So take me as you find me<br>All my fears and failures<br>And fill my life again<br>I give my life to follow<br>Everything I believe in<br>Now I surrender (I surrender)<br><br>Shine your light and let the whole world <br>see, we’re singing<br>For the glory of the risen king, Jesus<br>Shine your light and let the whole world <br>see, we’re singing<br>For the glory of the risen king, Jesus"
+    },
+    {
         title: "Moment By Moment",
         author: "Daniel Webster Whittle",
         song_url: "",
@@ -1063,11 +1110,22 @@ export const songs = [
         title: "More Love To Thee",
         author: "Elizabeth Prentiss",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/v0zsugtes8upa1y/MoreLoveToThee.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
             "More love to Thee, O Christ, more love to Thee!<br>Hear Thou the prayer I make on bended knee;<br>This is my earnest plea:<br>More love, O Christ, to Thee,<br>More love to Thee, more love to Thee!<br><br>Once earthly joy I craved, sought peace and rest;<br>Now Thee alone I seek, give what is best;<br>This all my prayer shall be:<br>More love, O Christ, to Thee,<br>More love to Thee, more love to Thee!<br><br>Then shall my latest breath whisper Thy praise;<br>This be the parting cry my heart shall raise;<br>This still its prayer shall be:<br>More love, O Christ, to Thee,<br>More love to Thee, more love to Thee!"
+    },
+    {
+        title: "My Eyes Are Dry",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "My eyes are dry<br>My faith is old<br>My heart is hard<br>My prayers are cold<br>And I know how I ought to be<br>Alive to you and dead to me<br><br>But what can be done for an old heart <br>like mine<br>Soften it up with oil and wine<br>The oil is You<br>Your spirit of love<br>Please wash me anew in the wine of <br>your blood<br>"
     },
     {
         title: "My Faith Has Found A Resting Place",
@@ -1137,17 +1195,19 @@ export const songs = [
         title: "O Jesus, I Have Promised",
         author: "John Ernest Bode",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/r5w3u6r5eem2bpj/OJesusIHavePromised_V2.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
-            "O Jesus, I have promised to serve Thee to the end;<br>Be Thou forever near me, my Master and my friend;<br>I shall not fear the battle if Thou art by my side,<br>Nor wander from the pathway if Thou wilt be my guide.<br><br>O Jesus, Thou hast promised to all who follow Thee,<br>That where Thou art in glory, there shall Thy servant be;<br>And, Jesus, I have promised to serve Thee to the end;<br>O give me grace to follow my Master and my friend!<br><br>O let me feel Thee near me! The world is ever near;<br>I see the sights that dazzle, the tempting sounds I hear;<br>My foes are ever near me, around me and within;<br>But, Jesus, draw Thou nearer and shield my soul from sin.<br><br>O let me hear Thee speaking in accents clear and still,<br>Above the storms of passion, the murmurs of self-will.<br>O speak to reassure me, to hasten or control!<br>O speak, and make me listen, Thou guardian of my soul!"
+            "My faith has found a resting place,<br>Not in device or creed;<br>I trust the Everliving One,<br>His wounds for me shall plead.<br><br>I need no other argument,<br>I need no other plea,<br>It is enough that Jesus died,<br>And that He died for me.<br><br>Enough for me that Jesus saves,<br>This ends my fear and doubt;<br>A sinful soul I come to Him,<br>He’ll never cast me out.<br><br>My heart is leaning on the Word,<br>The living Word of God,<br>Salvation by my Savior’s name,<br>Salvation through His blood.<br><br>My great Physician heals the sick,<br>The lost He came to save;<br>For me His precious blood He shed,<br>For me His life He gave."
     },
     {
         title: "O Master, Let Me Walk With Thee",
         author: "Washington Gladden",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/i0ayzou7711sfca/OMasterLetMeWalkWithThee.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -1175,6 +1235,16 @@ export const songs = [
             "O worship the King all glorious above,<br>And gratefully sing his wonderful love;<br>Our Shield and Defender, the Ancient of Days,<br>Pavilioned in splendor and girded with praise.<br><br>O tell of his might, O sing of his grace,<br>Whose robe is the light, whose canopy space.<br>His chariots of wrath the deep thunderclouds form,<br>And dark is his path on the wings of the storm.<br><br>Your bountiful care, what tongue can recite?<br>It breathes in the air, it shines in the light,<br>It streams from the hills, it descends to the plain,<br>And sweetly distills in the dew and the rain.<br><br>Frail children of dust, and feeble as frail,<br>In you do we trust, nor find Thee to fail.<br>Your mercies, how tender, how firm to the end,<br>Our Maker, Defender, Redeemer, and Friend!<br><br>O measureless Might, unchangeable Love,<br>Whom angels delight to worship above!<br>Your ransomed creation, with glory ablaze,<br>In true adoration shall sing to your praise!"
     },
     {
+        title: "Once Again",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Jesus Christ, I think upon Your sacrifice<br>You became nothing, poured out to death<br>Many times I've wondered at Your gift of life<br>And I'm in that place once again<br>I'm in that place once again<br> <br>And once again I look upon <br>The cross where You died<br>I'm humbled by Your mercy <br>And I'm broken inside<br>Once again I thank You<br>Once again I pour out my life<br> <br>Now You are exalted to the highest place<br>King of the heavens, where one day I'll bow<br>But for now, I marvel at Your saving grace<br>And I'm full of praise once again<br>I'm full of praise once again<br>"
+    },
+    {
         title: "One Day When Heaven was Filled With His Praises",
         author: "John Wilbur Chapman",
         song_url:
@@ -1184,7 +1254,67 @@ export const songs = [
         collection: "hymn",
         ref: "",
         lyrics:
-            "One day when heaven was filled with His praises,<br>  One day when sin was as black as could be,<br>Jesus came forth to be born of a virgin—<br>  Dwelt among men, my example is He!<br><br>Chorus:<br> 	Living, He loved me; dying, He saved me;<br>  Buried, He carried my sins far away;<br>Rising, He justified freely forever:<br>    One day He’s coming—O glorious day!<br><br>One day they led Him up Calvary’s mountain,<br>  One day they nailed Him to die on the tree;<br>Suffering anguish, despised and rejected;<br>  Bearing our sins, my Redeemer is He.<br><br>One day they left Him alone in the garden,<br>  One day He rested, from suffering free;<br>Angels came down o’er His tomb to keep vigil;<br>  Hope of the hopeless, my Savior is He.<br><br>One day the grave could conceal Him no longer,<br>  One day the stone rolled away from the door;<br>Then He arose, over death He had conquered;<br>  Now is ascended, my Lord evermore.<br><br>One day the trumpet will sound for His coming,<br>  One day the skies with His glory will shine;<br>Wonderful day, my beloved ones bringing;<br>  Glorious Savior, this Jesus is mine!"
+            "One day when heaven was filled with His praises,<br>One day when sin was as black as could be,<br>Jesus came forth to be born of a virgin.<br>Dwelt among men, my example is He!<br><br>Living, He loved me; dying, He saved me;<br>Buried, He carried my sins far away;<br>Rising, He justified freely forever:<br>One day He’s coming, O glorious day!<br><br>One day they led Him up Calvary’s mountain,<br>One day they nailed Him to die on the tree;<br>Suffering anguish, despised and rejected;<br>Bearing our sins, my Redeemer is He.<br><br>One day they left Him alone in the garden,<br>One day He rested, from suffering free;<br>Angels came down o’er His tomb to keep vigil;<br>Hope of the hopeless, my Savior is He.<br><br>One day the grave could conceal Him no longer,<br>One day the stone rolled away from the door;<br>Then He arose, over death He had conquered;<br>Now is ascended, my Lord evermore.<br><br>One day the trumpet will sound for His coming,<br>One day the skies with His glory will shine;<br>Wonderful day, my beloved ones bringing;<br>Glorious Savior, this Jesus is mine!"
+    },
+    {
+        title: "One Pure And Holy Passion",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Give me one pure and holy passion<br>Give me one magnificent obsession<br>Jesus, give me one glorious <br>ambition for my life<br>To know and follow hard after you<br><br>To know and follow hard after You<br>To grow as Your disciple in the truth<br>This world is empty, pale and poor<br>Compared to knowing You, my Lord<br>Lead me on and I will run after You"
+    },
+    {
+        title: "One Voice",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Father, we ask of You this day<br>Come and heal our land<br>Knit our hearts together<br>That Your glory may be seen in us<br>Then the world will know<br>That Jesus Christ is Lord<br><br>Let us be one voice that glorifies Your name<br>Let us be one voice, declaring that You reign<br>Let us be one voice in love and harmony<br>And we pray, O God, grant us unity<br><br>Now is the time for you and I<br>To join our hearts in praise<br>That the name of Jesus<br>Will be lifted high above the earth<br>Then the world will know<br>That Jesus Christ is Lord<br>"
+    },
+    {
+        title: "One Way",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "I lay my life down at your feet<br>'Coz you're the only one I need<br>I turn to you and you were always there<br>In troubled times it's you I seek<br>I put you first, that's all I need<br>I humble all I am on to you<br><br>One way, Jesus<br>You're the only one that I could live for<br>One way, Jesus<br>You're the only one that I could live for<br><br>You are always, always there<br>Every how and everywhere<br>Your grace abounds so deeply within me  <br>You will never ever change<br>Yesterday, today the same<br>Forever 'til forever meets no end<br><br>You are the way, the truth and the life<br>We live by faith and not by sight<br>For you, we're living all for you"
+    },
+    {
+        title: "Only King Forever",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Our God, a firm foundation<br>Our rock, the only solid ground<br>As nations rise and fall<br>Kingdoms once strong now shaken<br>But we trust forever in your name<br>The name of Jesus<br>We trust the name of Jesus<br><br>You are the only King forever<br>Almighty God we lift you higher<br>You are the only King forever<br>Forevermore, you are victorious<br>You are the only King forever<br>Almighty God we lift you higher<br>You are the only King forever<br>Forevermore, you are victorious<br>           <br>Unmatched in all your wisdom <br>In love and justice you will reign<br>Every knee will bow<br>We bring our expectations<br>Our hope is anchored in your name      <br>The name of Jesus<br>We trust the name of Jesus<br><br>We lift our banner high<br>We lift the name of Jesus<br>From age to age you reign<br>Your kingdom has no end<br>We lift our banner high<br>We lift the name of Jesus<br>From age to age you reign<br>Your kingdom has no end<br><br>You are the only King forever<br>Almighty God we lift you higher<br>You are the only King forever<br>Forevermore, you are victorious<br><br>You are the only King forever<br>Almighty God we lift you higher<br>You are the only King forever<br>Forevermore, you are victorious<br>"
+    },
+    {
+        title: "Open The Eyes Of My Heart Lord",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Open the eyes of my heart, Lord<br>Open the eyes of my heart;<br>I want to see You, I want to see You<br><br>Open the eyes of my heart, Lord<br>Open the eyes of my heart;<br>I want to see You, I want to see You<br><br>To see You high and lifted up,<br>Shining in the light of Your glory.<br>Pour out Your pow'r and love;<br>As we sing holy, holy, holy<br><br>Holy, holy, holy<br>Holy, holy, holy<br>Holy, holy, holy<br>I want to see You<br>"
+    },
+    {
+        title: "Our God Reigns",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "How lovely on <br>The mountains are the feet of him<br>Who brings good news, good news<br>Announcing peace, <br>Proclaiming news of happiness<br>Our God reigns, our God reigns<br> <br>Our God reigns, our God reigns<br>Our God reigns, our God reigns<br>"
     },
     {
         title: "Out Of My Bondage, Sorrow, And Night",
@@ -1195,6 +1325,16 @@ export const songs = [
         ref: "",
         lyrics:
             "Out of my bondage, sorrow, and night,<br>Jesus, I come, Jesus, I come;<br>Into Thy freedom, gladness, and light,<br>Jesus, I come to Thee.<br>Out of my sickness, into Thy health,<br>Out of my want and into Thy wealth,<br>Out of my sin and into Thyself,<br>Jesus, I come to Thee.<br><br>Out of my shameful failure and loss,<br>Jesus, I come, Jesus, I come;<br>Into the glorious gain of Thy cross,<br>Jesus, I come to Thee.<br>Out of earth's sorrows into Thy balm,<br>Out of life's storms and into Thy calm,<br>Out of distress to jubilant psalm,<br>Jesus, I come to Thee.<br><br>Out of unrest and arrogant pride,<br>Jesus, I come, Jesus, I come;<br>Into Thy blessed will to abide,<br>Jesus, I come to Thee.<br>Out of myself to dwell in Thy love,<br>Out of despair into raptures above,<br>Upward for aye on wings like a dove,<br>Jesus, I come to Thee.<br><br>Out of the fear and dread of the tomb,<br>Jesus, I come, Jesus, I come;<br>Into the joy and light of Thy throne,<br>Jesus, I come to Thee.<br>Out of the depths of ruin untold,<br>Into the peace of Thy sheltering fold,<br>Ever Thy glorious face to behold,<br>Jesus, I come to Thee."
+    },
+    {
+        title: "Papaya Song",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "I like bananas<br>I know that mangos are sweet<br>I like papayas. Papayas?!<br>But nothing can beat<br>the sweet love of God<br>Shoo-bee-doo-wop<br>Shoo-bee-doo-wop<br><br>I was walking round circles,<br>5 miles an hour<br>Trying to find my way back<br>to my Heavenly Father<br>They tasted sweet, then it turned sour<br>And then, I asked Him in,<br>and received His power…"
     },
     {
         title: "Pass Me Not, O Gentle Savior",
@@ -1209,6 +1349,16 @@ export const songs = [
             "Pass me not, O gentle Savior,<br>Hear my humble cry;<br>While on others Thou art calling,<br>Do not pass me by.<br><br>Savior, Savior,<br>Hear my humble cry,<br>While on others Thou art calling,<br>Do not pass me by.<br><br>Let me at Thy throne of mercy<br>Find a sweet relief;<br>Kneeling there in deep contrition,<br>Help my unbelief.<br><br>Trusting only in Thy merit,<br>Would I seek Thy face;<br>Heal my wounded, broken spirit,<br>Save me by Thy grace.<br><br>Thou the spring of all my comfort,<br>More than life to me,<br>Whom have I on earth beside Thee,<br>Whom in Heav’n but Thee."
     },
     {
+        title: "Refiner's Fire",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Purify my heart<br>let me be as gold and precious silver<br>Purify my heart,<br>let me be as gold, pure gold<br> <br>Refiner's fire<br>My heart's one desire<br>is to be holy<br>set apart for You   Lord.<br>I choose to be holy<br>set apart for you my master,<br>ready to do your will.<br> <br>Purify my heart, <br>Cleanse me from within <br>and make me holy.<br>Purify my heart,<br>Cleanse me from my sin, deep within"
+    },
+    {
         title: "Rock Of Ages, Cleft For Me",
         author: "Augustus Toplady",
         song_url: "",
@@ -1218,6 +1368,16 @@ export const songs = [
         ref: "",
         lyrics:
             "Rock of Ages, cleft for me,<br>Let me hide myself in Thee;<br>Let the water and the blood,<br>From Thy wounded side which flowed,<br>Be of sin the double cure<br>Save from wrath and make me pure.<br><br>Not the labor of my hands<br>Can fulfill Thy law’s demands;<br>Could my zeal no respite know,<br>Could my tears forever flow,<br>All for sin could not atone;<br>Thou must save, and Thou alone.<br><br>Nothing in my hand I bring,<br>Simply to the cross I cling;<br>Naked, come to Thee for dress;<br>Helpless, look to Thee for grace;<br>Foul, I to the fountain fly;<br>Wash me, Savior, or I die.<br><br>While I draw this fleeting breath,<br>When mine eyes shall close in death,<br>When I soar to worlds unknown,<br>And behold Thee on Thy throne,<br>Rock of Ages, cleft for me,<br>Let me hide myself in Thee."
+    },
+    {
+        title: "Sanctuary",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Lord, prepare me to be a sanctuary<br>Pure and holy, tried and true<br>With thanksgiving, I'll be a living<br>Sanctuary for You<br><br>It is you, Lord who came to save<br>The heart and soul of every man.<br>It is you Lord who knows my weakness,<br>Who gives me strength, <br>with thine own hand.<br><br>Lead Me on Lord from temptation,<br>Purify me from within.<br>Fill my heart with Your holy spirit,<br>Take away all my sin.<br>"
     },
     {
         title: "Savior Like A Shepherd Lead Us",
@@ -1241,6 +1401,26 @@ export const songs = [
         ref: "Psalm 139:23-24",
         lyrics:
             "Search me, O God, and know my heart today,<br>Try me, O Savior, know my thoughts, I pray;<br>See if there be some wicked way in me;<br>Cleanse me from every sin, and set me free.<br><br>I praise Thee, Lord, for cleansing me from sin;<br>Fulfill Thy word and make me pure within;<br>Fill me with fire, where once I burned with shame;<br>Grant my desire to magnify Thy name.<br><br>Lord, take my life, and make it wholly Thine;<br>Fill my poor heart with Thy great love divine;<br>Take all my will, my passion, self and pride;<br>I now surrender, Lord, in me abide.<br><br>O Holy Ghost, revival comes from Thee;<br>Send a revival, start the work in me;<br>Thy Word declares Thou wilt supply our need;<br>For blessings now, O Lord, I humbly plead."
+    },
+    {
+        title: "Shine Jesus Shine",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Lord, the light of your love is shining<br>In the midst of your darkness, shining<br>Jesus, light of the world shine upon us<br><br>Set us free by the truth <br>You now bring us<br>Shine On Me, Shine On Me<br><br>Shine Jesus shine, <br>fill this land with the father's glory<br>Blaze spirit blaze, <br>set our hearts on fire<br>Flow river flow, <br>flood the nations with grace and mercy<br>Send forth your word, <br>Lord, and let there be light!"
+    },
+    {
+        title: "Shout To The Lord",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "My Jesus, my Savior<br>Lord there is none like You<br>All of my days<br>I want to praise<br>The wonders of Your mighty love<br><br>My comfort, my shelter<br>Tower of refuge and strength<br>Let every breath, All that I am<br>Never cease to worship You<br><br>Shout to the Lord, all the earth, let us sing<br>Power and majesty, praise to the King<br>Mountains bow down and the seas will roar<br>At the sound of Your name<br><br>I sing for joy at the work of Your hands<br>Forever I'll love You, forever I'll stand,<br>Nothing compares to the promise I have <br>in You"
     },
     {
         title: "Since Jesus Came Into My Heart",
@@ -1293,6 +1473,16 @@ export const songs = [
         ref: "",
         lyrics:
             "Spirit of the living God<br>Fall fresh on me<br>Spirit of the living God<br>Fall fresh on me<br>Break me, melt me, mold me, fill me<br>Spirit of the living God<br>Fall fresh on me<br><br>Soul of heaven, heart of God,<br>Wash over me.<br>Soul of heaven, heart of God,<br>Wash over me.<br>Cleanse me, teach me, hold me, reach me.<br>Soul of heaven, heart of God<br>Wash over me.<br><br>Holy presence, love divine,<br>Cast out my fear.<br>Holy presence, love divine,<br>Cast out my fear.<br>Shield me, free me, call me, lead me.<br>Holy presence, love divine, cast out my fear."
+    },
+    {
+        title: "Stand By Me",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "When the night has come              <br>and the land is dark<br>And the moon is the only light we'll see                         <br>No I won't be afraid, <br>No I won't be afraid           <br>Just as long as you stand<br>stand by me              <br><br>So darlin', darlin'<br>Stand by me, oh now stand by me,      <br>Oh Stand, stand by me,  <br>Stand by me            <br><br>If the sky that we look upon                      <br>should tumble and fall<br>And the mountain   <br>should crumble to the sea                       <br>I won't cry, I won't cry,       <br>No I won't shed a tear<br>Just as long as you stand,       <br>Stand by me, so darling, darling<br>"
     },
     {
         title: "Sweet Hour Of Prayer",
@@ -1392,6 +1582,16 @@ export const songs = [
             "There is a fountain filled with blood<br>Drawn from Immanuel’s veins;<br>And sinners plunged beneath that flood<br>Lose all their guilty stains.<br>Lose all their guilty stains,<br>Lose all their guilty stains;<br>And sinners plunged beneath that flood<br>Lose all their guilty stains.<br><br>The dying thief rejoiced to see<br>That fountain in his day;<br>And there may I, though vile as he,<br>Wash all my sins away.<br>Wash all my sins away,<br>Wash all my sins away;<br>And there may I, though vile as he,<br>Wash all my sins away.<br><br>Dear dying Lamb, Thy precious blood<br>Shall never lose its power<br>Till all the ransomed church of God<br>Be saved, to sin no more.<br>Be saved, to sin no more,<br>Be saved, to sin no more;<br>Till all the ransomed church of God<br>Be saved, to sin no more.<br><br>E’er since, by faith, I saw the stream<br>Thy flowing wounds supply,<br>Redeeming love has been my theme,<br>And shall be till I die.<br>And shall be till I die,<br>And shall be till I die;<br>Redeeming love has been my theme,<br>And shall be till I die."
     },
     {
+        title: "There Is None Like You",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "There is none like You<br>No one else can touch my heart like You do<br>I could search for all eternity long and find<br>There is none like You<br> <br>Your mercy flows like a river wide<br>And healing comes from Your hands<br>Suffering children are safe in Your arms<br>There is none like You"
+    },
+    {
         title: "There Is Power In The Blood",
         author: "Lewis E. Jones",
         song_url: "",
@@ -1400,6 +1600,16 @@ export const songs = [
         ref: "",
         lyrics:
             "Would you be free from the burden of sin?<br>There's power in the blood, power in the blood<br>Would you o’er evil a victory win?<br>There's wonderful power in the blood<br><br>There is power, power, wonder-working power<br>In the blood of the Lamb<br>There is power, power, wonder-working power<br>In the precious blood of the Lamb<br><br>Would you be free from your passion and pride?<br>There's power in the blood, power in the blood<br>Come for a cleansing to Calvary's tide<br>There's wonderful power in the blood<br><br>Would you be whiter, much whiter than snow?<br>There's power in the blood, power in the blood<br>Sin stains are lost in its life-giving flow<br>There's wonderful power in the blood<br><br>Would you do service for Jesus your King?<br>There's power in the blood, power in the blood<br>Would you live daily His praises to sing<br>There's wonderful power in the blood"
+    },
+    {
+        title: "This Is Amazing Grace",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Who breaks the power of sin and darkness<br>Whose love is mighty and so much stronger<br>The King of Glory,  the King above all kings<br>Who shakes the whole earth with holy thunder<br>Who leaves us breathless in awe and wonder<br>The King of Glory,  the King above all kings<br><br>This is amazing grace<br>This is unfailing love<br>That You would take my place<br>That You would bear my cross<br>You would lay down Your life<br>That I would be set free<br>Jesus, I sing for<br>All that You've done for me<br><br>Who brings our chaos back into order<br>Who makes the orphan a son and daughter<br>The King of Glory,  the King of Glory<br>Who rules the nations with truth and justice<br>Shines like the sun in all of its brilliance<br>The King of Glory,  the King above all kings<br><br>Worthy is the Lamb who was slain<br>Worthy is the King who conquered the grave<br>Worthy is the Lamb who was slain<br>Worthy is the King who conquered the grave<br>"
     },
     {
         title: "This Is My Father's World",
@@ -1411,6 +1621,16 @@ export const songs = [
         ref: "",
         lyrics:
             "This is my Father's world, and to my listening ears<br>All nature sings, and round me rings<br>The music of the spheres.<br>This is my Father's world:<br>I rest me in the thought<br>Of rocks and trees, of skies and seas<br>His hand the wonders wrought.<br><br>This is my Father's world, the birds their carols raise,<br>The morning light, the lily white,<br>Declare their maker's praise.<br>This is my Father's world:<br>He shines in all that's fair;<br>In the rustling grass I hear Him pass;<br>He speaks to me everywhere.<br><br>This is my Father's world, O let me ne'er forget<br>That though the wrong seems oft so strong,<br>God is the ruler yet.<br>This is my Father’s world:<br>The battle is not done;<br>Jesus who died shall be satisfied<br>And earth and heaven be one.<br><br>This is my Father’s world, should my heart be ever sad?<br>The Lord is King, let the heavens ring.<br>God reigns, let the earth be glad.<br>This is my Father’s world:<br>Now closer to Heaven bound,<br>For dear to God is the earth Christ trod<br>No place but is holy ground.<br><br>This is my Father’s world, I walk a desert lone<br>In a bush ablaze to my wondering gaze<br>God makes His glory known.<br>This is my Father’s world:<br>A wanderer I may roam<br>Whate’er my lot, it matters not,<br>My heart is still at home."
+    },
+    {
+        title: "This World Is Not My Home",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "This world is not my home, <br>I'm just a passing through<br>My treasures are laid up <br>somewhere beyond the blue<br>The angels beckon me from heaven's open door<br>And I can't feel at home in this world anymore<br><br>O Lord, You know I have no friend like You<br>If heaven's not my home, O Lord, what will I do<br>The angels beckon me from heaven's open door<br>And I can't feel at home in this world anymore<br><br>Just up in gloryland, we'll live eternally<br>The saints on every hand are shouting victory<br>Their songs of sweetest praise, <br>drift back from heaven’s shore<br>And I can't feel at home in this world anymore"
     },
     {
         title: "Tis' So Sweet To Trust In Jesus",
@@ -1455,6 +1675,16 @@ export const songs = [
             "O soul, are you weary and troubled?<br>No light in the darkness you see?<br>There’s light for a look at the Savior,<br>And life more abundant and free!<br><br>Turn your eyes upon Jesus,<br>Look full in His wonderful face,<br>And the things of earth<br>Will grow strangely dim,<br>In the light of His glory and grace.<br><br>Through death into life everlasting<br>He passed, and we follow Him there;<br>Over us sin no more hath dominion,<br>For more than conquerors we are!<br><br>His Word shall not fail you. He promised;<br>Believe Him, and all will be well;<br>Then go to a world that is dying,<br>His perfect salvation to tell!"
     },
     {
+        title: "Undivided Heart",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Teach me Your ways, Oh Lord<br>And I will walk in Your truth<br>Teach me Your ways, Oh Lord<br>For I am devoted to to You<br>Purify, my heart's desire<br>I long to be your servant<br><br>Give me an undivided heart<br>That I may fear your name<br>Give me an undivided heart<br>No other gods, no other love,<br>No other gods before you.<br>"
+    },
+    {
         title: "Victory In Jesus",
         author: "E. M. Bartlett",
         song_url: "",
@@ -1473,6 +1703,16 @@ export const songs = [
         ref: "",
         lyrics:
             "We are called to be God’s people,<br>Showing by our lives His grace,<br>One in heart and one in sprit,<br>Sign of hope for all the race.<br>Let us show how He has changed us,<br>And remade us as His own,<br>Let us share our life together<br>As we shall around His throne.<br><br>We are called to be God’s servants,<br>Working in His world today,<br>Taking His own task upon us,<br>All His sacred words obey.<br>Let us rise, then, to His summons,<br>Dedicate to Him our all,<br>That we may be faithful servants,<br>Quick to answer now His call.<br><br>We are called to be God’s prophets,<br>Speaking for the truth and right,<br>Standing firm for godly justice,<br>Bringing evil into light.<br>Let us seek the courage needed,<br>Our high calling to fulfill,<br>That we all may know the blessing<br>Of the doing of God’s will."
+    },
+    {
+        title: "We Are The Lord's Own Family",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "As we walk side by side<br>And as His love becomes our guide<br>We will join hands and be one family<br>Because God's love <br>is what the world should see<br><br>And as we build each other up<br>He fills our hearts with His love<br>We will join hands so all the world can see<br>We are the Lord's own family<br><br>We are the Lord's own family<br>Our love is what the world will see<br>And as we use His love to<br>Build each other up, we're<br>Building the Lord's own family<br>Building the Lord's own family"
     },
     {
         title: "What A Friend We Have In Jesus",
@@ -1501,17 +1741,29 @@ export const songs = [
         title: "When We All Get To Heaven",
         author: "Eliza Edmuds Hewitt",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/eciyprg8mqzeicg/WhenWeAllGettoHeaven.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
             "Sing the wondrous love of Jesus,<br>Sing His mercy and His grace.<br>In the mansions bright and blessed<br>He'll prepare for us a place.<br><br>When we all get to heaven,<br>What a day of rejoicing that will be!<br>When we all see Jesus,<br>We'll sing and shout the victory!<br><br>While we walk the pilgrim pathway,<br>Clouds will overspread the sky;<br>But when traveling days are over,<br>Not a shadow, not a sigh.<br><br>Let us then be true and faithful,<br>Trusting, serving every day;<br>Just one glimpse of Him in glory<br>Will the toils of life repay.<br><br>Onward to the prize before us!<br>Soon His beauty we'll behold;<br>Soon the pearly gates will open;<br>We shall tread the streets of gold."
     },
     {
+        title: "Where The Love Lasts Forever",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Your mercy found me upon the broken road<br>And lifted me beyond my failing<br>Into Your glory my sin and shame dissolved<br>And now forever Yours I'll stand<br><br>In love never to end<br>To call You more than Lord<br>Glorious friend<br><br>So I throw my life upon all that You are<br>'Cause I know You gave it all for me<br>And when all else fades, my soul will dance <br>with You<br>Where the love lasts forever<br><br>And forever I will sing<br>Lord, forever I will sing<br>How You gave Your life away<br>Just to save me, Lord, You saved me"
+    },
+    {
         title: "Wherever He Leads I'll Go",
         author: "B. B. McKinney",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/sfoc9tmh5ylppt8/WhereverHeLeadsIllGo.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -1543,7 +1795,8 @@ export const songs = [
         title: "Without Him",
         author: "Mylon Le Fevre",
         song_url: "",
-        inst_url: "",
+        inst_url:
+            "https://dl.dropbox.com/s/42wfqjsoyfbkq6o/WithoutHim.m4a?dl=0",
         collection: "hymn",
         ref: "",
         lyrics:
@@ -1568,6 +1821,86 @@ export const songs = [
         ref: "",
         lyrics:
             "Worthy of worship, worthy of praise,<br>Worthy of honor and glory,<br>Worthy of all the glad songs we can sing,<br>Worthy of all of the off’rings we bring.<br><br>You are worthy, Father, Creator;<br>You are worthy, Savior, Sustainer;<br>You are worthy, worthy and wonderful,<br>Worthy of worship and praise.<br><br>Worthy of reverence, worthy of fear,<br>Worthy of love and devotion,<br>Worthy of bowing and bending of knees,<br>Worthy of all this and added to these.<br><br>Almighty Father, Master and Lord,<br>King of all kings and Redeemer,<br>Wonderful Counselor, Comforter, Friend,<br>Savior and Source of our life without end."
+    },
+    {
+        title: "You Are Holy (Prince Of Peace)",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "You are holy (You are holy)<br>You are mighty (You are mighty)<br>You are worthy (You are worthy)<br>Worthy of praise (Worthy of praise)<br><br>I will follow (I will follow)<br>I will listen (I will listen)<br>I will love You (I will love you)<br>All of my days (All of my days)<br><br>I will sing to <br>(You are Lord of Lords)<br>And worship<br>(You are King of Kings)<br>The King who<br>(You are mighty God)<br>Is worthy<br>(Lord of everything)<br>I will love and<br>(You're Emmanuel)<br>Adore Him<br>(You're the Great I am)<br>I will bow down<br>(You're my prince of peace)<br>before Him<br>(Who is the Lamb)<br>I will sing to<br>(You're my living God)<br>And worship<br>(You're my saving grace)<br>The King who<br>(You will reign forever)<br>Is worthy <br>(You are ancient of days)<br>I will love and <br>(You are Alpha, Omega)<br>Adore Him<br>(Beginning and End)<br>I will bow down<br>(You're my Savior, Messiah)<br>Before Him<br>(Redeemer and friend)<br><br>You’re my Prince of Peace                                                                  <br>And I will live my life for You<br>"
+    },
+    {
+        title: "You Got A Friend In Me",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "You've got a friend in me <br>You've got a friend in me <br>When the road looks rough ahead <br>And you're miles and miles from your nice warm bed <br>You just remember what your old pal said <br>Boy, you've got a friend in me <br>Yeah, you've got a friend in me <br><br>You've got a friend in me <br>You've got a friend in me <br>You got troubles <br>And I got them too <br>There isn't anything <br>I wouldn't do for you <br>We stick together, we can see it through <br>Cause you've got a friend in me <br>You've got a friend in me <br><br>Some other folks might be a little bit smarter than I am <br>Bigger and stronger too, Maybe<br>But none of them <br>Will ever love you <br>The way I do <br>It's me and you, boy <br><br>And as the years go by, <br>Our friendship will never die <br>You're gonna see it's our destiny <br>You've got a friend in me <br>You've got a friend in me <br>You've got a friend in me"
+    },
+    {
+        title: "Your Grace is Sufficient",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Your grace is sufficient for me<br>Your strength is made perfect when I am weak<br>All that I cling to, I lay at your feet<br>Your grace is sufficient for me<br><br>I’m no longer striving to merit your love<br>I rest in Your promise to me<br>That all of my sins have been washed by your blood<br>Your mercy is all that I need<br><br>You see me as righteous because of the blood<br>That made the atonement for me<br>Your mercy has triumphed where <br>I should be judged<br>So now by your grace I am free<br>"
+    },
+    {
+        title: "Your Love Never Fails",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Nothing can separate<br>Even if I ran away<br>Your love never fails<br> <br>I know I still make mistakes<br>But You have new mercies for me <br>every day<br>Your love never fails<br> <br>You stay the same through the ages<br>Your love never changes<br>There may be pain in the night but joy comes in the morning<br> <br>And when the oceans rage<br>I don't have to be afraid<br>Because I know that You love me<br>Your love never fails<br><br>You make, all things, <br>work together for my good.<br> <br>The wind is strong and the water's deep<br>But I'm not alone in these open seas<br>Cause Your love never fails<br> <br>The chasm is far too wide<br>I never thought I'd reach the other side<br>But Your love never fails<br>"
+    },
+    {
+        title: "Your Love Is Amazing (Hallelujah)",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Your love is amazing, steady and unchanging<br>Your love is a mountain, firm beneath my feet<br>Your love is a mystery, how You gently lift me<br>When I am surrounded, Your love carries me<br><br>Hallelujah, Hallelujah<br>Hallelujah, Your love makes me sing<br>Hallelujah, Hallelujah<br>Hallelujah, Your love makes me sing<br><br>Your love is surprising, I can feel it rising<br>All the joy that's growing deep inside of me<br>Every time I see You, all Your goodness shines through<br>And I can feel this God song, rising up in me<br>"
+    },
+    {
+        title: "Your Beloved",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Lord it was you who created the heavens<br>Lord it was your hand that put the stars in their place<br>Lord is it your voice that commands the mornings,<br>even oceans and their waves will bow at your feet<br>Lord, who am I compared with your glory, oh Lord?<br> Lord, who am I compared with your majesty?<br><br>I am your beloved, your creation,<br>and you love me as I am.<br>You have called me chosen for your kingdom,<br>Unashamed to call me your own,<br>I am your beloved.<br>"
+    },
+    {
+        title: "You Are My King (Amazing Love)",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "I'm forgiven because You were forsaken<br>I'm accepted, You were condemned<br>I'm alive and well, Your Spirit is within me<br>Because You died and rose again.<br><br>Amazing love, how can it be,<br>That You my King would die for me?<br>Amazing love, I know it's true,<br>And It's my joy to honor You,<br>In all I do,  I honor You.<br><br>You are my King<br>You are my King"
+    },
+    {
+        title: "I Could Sing of Your Love Forever",
+        author: "",
+        song_url: "",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "Over the mountains and the sea,                                           <br>Your river runs with love for me,<br>and I will open up my heart                                           <br>and let the Healer set me free<br>I'm happy to be in the truth,<br>and I will daily lift my hands:<br>for I will always sing of when<br>Your love came down<br><br>I could sing of Your love forever,<br>I could sing of Your love forever<br><br>Oh, I feel like dancing <br>It's foolishness I know;<br>but, when the world has seen the light,<br>they will dance with joy,<br>like we're dancing now"
     }
 
     // insert literals above
