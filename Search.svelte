@@ -59,7 +59,7 @@
 
   <!-- search bar -->
   <div class="p-3 sticky top-0">
-    <input type="text" bind:value={search} placeholder="Search all songs" 
+    <input type="text" bind:value={search} placeholder="Search all songs!" 
   class="rounded-md px-4 py-1 w-full h-11 bg-slate-100 text-slate-500 dark:bg-slate-700 dark:text-slate-50 
   focus:outline-none focus:ring-teal-500 focus:ring-2 drop-shadow-md dark:drop-shadow-lg">
   </div>
