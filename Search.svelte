@@ -8,6 +8,8 @@
   let search = "";
   let hitanalytics = false;
   let searchedsongs, showtype;
+  // let isFocused = false;
+  // const onFocus = () => (isFocused = true);
 
   function filter(attr) {
     $controller.filter = attr;
@@ -37,6 +39,8 @@
   // $: When input (search) changes, searchedsongs should update
   // toLowerCase() used for case-insensitive search
   // replace(/[^\w\s]|_/g, "") to strip away punctuations
+  filter($controller.filter);
+
   $: {
     if (search) {
       showtype = true;
