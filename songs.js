@@ -539,6 +539,17 @@ export const songs = [
             "There is no problem too big <br>God cannot solve it<br>There is no mountain too tall <br>God cannot move it<br>There is no storm too dark <br>God cannot calm it<br>There is no sorrow too deep <br>God cannot soothe it<br><br>If he carried the weight of the world <br>Upon his shoulders<br>I know my brother that He <br>Will carry you<br>If he carried the weight of the world <br>Upon his shoulders<br>I know my sister that He <br>Will carry you"
     },
     {
+        title: "He's Changing Me",
+        author: "",
+        song_url:
+            "https://dl.dropbox.com/s/p0icdz09pnt0cix/He_s%20Changing%20Me_With%20Voice.mp3?dl=0",
+        inst_url: "",
+        collection: "campfire",
+        ref: "",
+        lyrics:
+            "He's changing me, my precious Jesus<br>I'm not the same person that I used to be.<br>Sometimes it's a slow going,<br>But there's a knowing,<br>That someday, perfect I will be.<br><br>Little by little bit everyday,<br>Little by little bit every way,<br>My Jesus is changing me (Oh yes, he's changing me).<br>Since I made that turnabout face,<br>I've been walking in His grace,<br>My Jesus is changing me.<br><br>He's changing you, my precious Jesus<br>You're not the same person that you used to be.<br>Sometimes it's a slow going,<br>But there's a knowing,<br>That someday, perfect you will be."
+    },
+    {
         title: "Heart Of Worship",
         author: "",
         song_url: "",
@@ -810,6 +821,17 @@ export const songs = [
             "In Christ alone my hope is found,<br>He is my light, my strength, my song;<br>This Cornerstone, this solid Ground,<br>Firm through the fiercest drought and storm<br>What heights of love, what depths of peace,<br>When fears are stilled, when strivings cease!<br>My Comforter, my All in All,<br>Here in the love of Christ I stand<br><br>In Christ alone! Who took on flesh<br>Fullness of God in helpless babe!<br>This gift of love and righteousness<br>Scorned by the ones he came to save<br>Till on that cross as Jesus died,<br>The wrath of God was satisfied <br>For every sin on Him was laid;<br>Here in the death of Christ I live<br>  <br>There in the ground His body lay            <br>Light of the world by darkness slain:            <br>Then bursting forth in glorious Day                        <br>Up from the grave he rose again!                                 <br>And as He stands in victory                           <br>Sin's curse has lost its grip on me,                       <br>For I am His and He is mine                   <br>Bought with the precious blood of Christ <br><br>No guilt in life, no fear in death,<br>This is the power of Christ in me;<br>From life's first cry to final breath.<br>Jesus commands my destiny.<br>No power of hell, no scheme of man,<br>Can ever pluck me from His hand;<br>Till He returns or calls me home,<br>Here in the power of Christ I'll stand"
     },
     {
+        title: "In These Dark Days",
+        author: "",
+        song_url:
+            "https://dl.dropbox.com/s/igarbq3fkdf3m25/in%20These%20Dark%20Days_With%20Voice.mp3?dl=0",
+        inst_url: "",
+        collection: "hymn",
+        ref: "",
+        lyrics:
+            "In these dark days lift up your eyes to Jesus<br>Lift up your eyes He’s still upon the throne<br>And come what may, He never will forsake you<br>For He is God to Him all things are known<br>Lift up your eyes He still is there<br>Be not dismayed He knows your weight of care<br>In these dark days lift up your eyes to Jesus<br>And trust in Him He will your burden bear."
+    },
+    {
         title: "It Is Well",
         author: "Horatio Spafford",
         song_url: "",
@@ -823,7 +845,8 @@ export const songs = [
     {
         title: "Jesus I My Cross Have Taken",
         author: "Henry Francis Lyte",
-        song_url: "",
+        song_url:
+            "https://dl.dropbox.com/s/51ol4pqtqt0r6ks/Jesus%20I%20My%20Cross%20Have%20Taken_With%20Voice.mp3?dl=0",
         inst_url:
             "https://dl.dropbox.com/s/4qmb878qw3n9dwx/JesusIMyCrossHaveTaken.m4a?dl=0",
         collection: "hymn",
@@ -1515,6 +1538,17 @@ export const songs = [
         ref: "",
         lyrics:
             "Take time to be holy, speak oft with thy Lord,<br>Abide in him always, and feed on His Word;<br>Make friends of God’s children, help those who are weak,<br>Forgetting in nothing His blessing to seek.<br><br>Take time to be holy, the world rushes on,<br>Spend much time in secret with Jesus alone;<br>By looking to Jesus, like Him thou shalt be;<br>Thy friends in thy conduct His likeness shall see.<br><br>Take time to be holy, let Him be thy guide,<br>And run not before Him whatever betide;<br>In joy or in sorrow still follow thy Lord,<br>And looking to Jesus, still trust in His Word.<br><br>Take time to be holy, be calm in thy soul,<br>Each thought and each motive beneath His control;<br>Thus led by His Spirit to fountains of love,<br>Thou soon shalt be fitted for service above."
+    },
+    {
+        title: "The Joy of the Lord",
+        author: "",
+        song_url:
+            "https://dl.dropbox.com/s/hxp4jdp9qklxwhz/The%20Joy%20of%20the%20Lord_With%20Voice.mp3?dl=0",
+        inst_url: "",
+        collection: "hymn",
+        ref: "",
+        lyrics:
+            "The joy of the Lord is my strength,<br>The joy of the Lord is my strength,<br>The joy of the Lord is my strength,<br>The joy of the Lord is my strength.<br><br>He gives me living water and I thirst no more,<br>He gives me living water and I thirst no more.<br>He gives me living water and I thirst no more,<br>The joy of the Lord is my strength."
     },
     {
         title: "The Longer I Serve Him",
